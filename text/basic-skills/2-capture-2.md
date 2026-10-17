@@ -14,4 +14,5 @@ I suggest playing with this rule set on a 9x9 board.
 ## Extras
 ### Space (cont.)
 ### Capturing Techniques
+### Capturing Race (Reading)
 ### Practice Puzzles
