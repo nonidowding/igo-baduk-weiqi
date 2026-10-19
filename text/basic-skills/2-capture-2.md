@@ -6,6 +6,12 @@ I suggest playing with this rule set on a 9x9 board.
 
 ## Lessons
 ### Connect and Cut
+Keeping your own stones connected and your opponent's stones cut apart is generally advantageous. With this in mind where is a good place for black to play?
+
+<p align="center"
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/18a560c5-7060-417e-b3bf-f37c6cf5da2e" />
+</p>
+
 ### Space 
 ### Vital Point 
 ### Ko 
