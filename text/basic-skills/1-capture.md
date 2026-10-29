@@ -1,12 +1,15 @@
 # Basic Skills/Capture
 ## Overview
+
+First, I'm going to teach you how to play a very beginner friendly variant of go called "capture go".
+
 Go is a two person game. It is played on a square grid printed on a board. The standard board size is 19x19, with 13x13 and 9x9 as smaller options. In this section of the guide I will be using 7x7 and 5x5, considered teaching sizes.
 
-The pieces are black and white stones. A full go set has 181 black stones and 180 white stones. But it's OK if you have a few less.
+The pieces are black and white stones. 
 
 Stones are played on the intersections of the board, not the spaces. Once a stone is placed it does not move position and cannot be taken back. 
 
-First, I'm going to teach you how to play a very beginner friendly variant of go called "capture go". The rules are simple: 
+The rules are simple: 
 
 1. At the Start of the game the board is empty.
 2. Black plays first. They may play anywhere to start.
