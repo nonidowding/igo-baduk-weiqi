@@ -7,3 +7,4 @@ Here is a simple finished game. Black has 7 more points of territory than white.
   <img width="500" height="500" alt="{0E44AEDB-5E07-47FF-9BCC-1563ACB46DCC}" src="https://github.com/user-attachments/assets/fa53aa81-24a5-4d30-b1c5-f90bcecd6432" />
 </p>
 
+A common question that arises when new players are trying out their first games is, when is the game over? 
