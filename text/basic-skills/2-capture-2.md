@@ -6,7 +6,7 @@ I suggest playing with this rule on a 9x9 board and having **three games** with 
 
 ### Place Captures in the Lids
 
-It's traditional to keep your captures in the lid of the bowl, visible, next to the board, so that you can keep track. We didn't need to do this before because one capture ended the game.
+It's traditional to keep your captures in the lid of the bowl, visible, next to the board, so that both players can keep track. We didn't need to do this before because one capture ended the game.
 
 <image of captures in the lid>
 
