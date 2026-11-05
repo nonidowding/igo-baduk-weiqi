@@ -14,7 +14,7 @@ It's traditional to keep your captures in the lid of the bowl, visible, next to 
 
 Since we're going for more stones now, let's do a quick refresher: It's possible to play inside a large group for a capture. If its your turn, you take the enemy stones off first, and your stone gets to survive.
 
-<img width="712" height="668" alt="Recording 2026-11-04 163042" src="https://github.com/user-attachments/assets/bb4c7bd4-96aa-48d8-9a45-fec96e196bd5" />
+<img width="50%" alt="Recording 2026-11-04 163042" src="https://github.com/user-attachments/assets/bb4c7bd4-96aa-48d8-9a45-fec96e196bd5" />
 
 It's even possible to set up a forced capture by throwing away a stone or two. Just be careful that you don't lose three before the enemy!
 
