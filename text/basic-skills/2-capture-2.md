@@ -18,7 +18,7 @@ Since we're going for more stones now, let's do a quick refresher: It's possible
 
 It's even possible to set up a forced capture by throwing away a stone or two. Just be careful that you don't lose three before the enemy!
 
-<img width="904" height="902" alt="Recording 2026-11-04 163918" src="https://github.com/user-attachments/assets/ae177157-159d-4a50-bb3f-144abbcec8ce" />
+<img width="50%" alt="Recording 2026-11-04 163918" src="https://github.com/user-attachments/assets/ae177157-159d-4a50-bb3f-144abbcec8ce" />
 
 ### Recapture after a Capture
 
